@@ -1,3 +1,6 @@
 #quienes-somos {
     color: black;
 }
+a {
+    text-transform: uppercase;
+}
